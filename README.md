@@ -1,5 +1,17 @@
 # PulseDB — Music Streaming Platform
 
+[![CI](https://github.com/Huzaifa-zuberi/PulseDB/actions/workflows/ci.yml/badge.svg)](https://github.com/Huzaifa-zuberi/PulseDB/actions/workflows/ci.yml)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://python.org)
+[![License](https://img.shields.io/badge/License-MIT-success)](LICENSE)
+![Last Commit](https://img.shields.io/github/last-commit/Huzaifa-zuberi/PulseDB)
+![Stars](https://img.shields.io/github/stars/Huzaifa-zuberi/PulseDB?style=social)
+
+**Repo:** [Huzaifa-zuberi/PulseDB](https://github.com/Huzaifa-zuberi/PulseDB)
+
+## Screenshots
+
+*(Add a screenshot of the dashboard here)*
+
 Full-stack database project: SQL Server backend + Python Flask API + browser dashboard.
 
 ## Project Structure
